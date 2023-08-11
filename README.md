@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./assets/ignite.png">
-</div>
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
