@@ -1,3 +1,9 @@
+Feito com ❤️ por 
+## TIAGO COSTA DEV
+
+- [Portifólio](https://www.tiagocostadev.com.br)
+- [GitHub](https://github.com/CTiagoCosta)
+- [LinkedIn](https://www.linkedin.com/in/carlos-tiago-silva-costa-458b16224/)
 
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
