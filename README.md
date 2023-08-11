@@ -25,7 +25,7 @@ efetuar um componentização da aplicação pois a mesma se encontra toda no arq
 ## 🖼️ Imagens do Projeto
 
 <div align="center">
-   <img src="./assets/watchme.png" alt="imagem do Projeto"/> 
+   <img src="./readme-files/preview.gif" alt="imagem do Projeto"/> 
    </br>
 </div>
 
