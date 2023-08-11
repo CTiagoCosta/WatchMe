@@ -2,12 +2,6 @@
   <img src="./assets/ignite.png">
 </div>
 
-## TIAGO COSTA DEV
-
-- [Portifólio](https://www.tiagocostadev.com.br)
-- [GitHub](https://github.com/CTiagoCosta)
-- [LinkedIn](https://www.linkedin.com/in/carlos-tiago-silva-costa-458b16224/)
-
 <h1 align="center"> RocketSeat 🔥 Ignite ReactJS </h1>
 
 <h2 align="center"> Desafio 02 : Componentizando a aplicação ( Projeto WatchMe ) </h2>
